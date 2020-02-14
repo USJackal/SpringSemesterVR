@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: f5f20dc4bf9790a45beb7071b5efae14
+timeCreated: 1502238678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: BezierCurve.001
+    100004: BezierCurve.002
+    100006: BezierCurve.003
+    100008: BezierCurve.004
+    100010: BezierCurve.005
+    100012: BezierCurve.006
+    100014: BezierCurve.007
+    100016: BezierCurve.008
+    100018: BezierCurve.009
+    100020: BezierCurve.010
+    100022: Circle
+    100024: Circle.001
+    100026: Circle.002
+    100028: Circle.003
+    100030: Circle.004
+    100032: Circle.005
+    100034: Circle.006
+    100036: Circle.007
+    100038: Circle.008
+    100040: Circle.009
+    100042: Circle.010
+    100044: Circle.012
+    100046: Circle.015
+    100048: Cube
+    100050: Cube.001
+    100052: Cube.002
+    100054: Cube.003
+    100056: Hemi
+    100058: Lamp
+    100060: Sun
+    100062: //RootNode
+    400000: BezierCurve
+    400002: BezierCurve.001
+    400004: BezierCurve.002
+    400006: BezierCurve.003
+    400008: BezierCurve.004
+    400010: BezierCurve.005
+    400012: BezierCurve.006
+    400014: BezierCurve.007
+    400016: BezierCurve.008
+    400018: BezierCurve.009
+    400020: BezierCurve.010
+    400022: Circle
+    400024: Circle.001
+    400026: Circle.002
+    400028: Circle.003
+    400030: Circle.004
+    400032: Circle.005
+    400034: Circle.006
+    400036: Circle.007
+    400038: Circle.008
+    400040: Circle.009
+    400042: Circle.010
+    400044: Circle.012
+    400046: Circle.015
+    400048: Cube
+    400050: Cube.001
+    400052: Cube.002
+    400054: Cube.003
+    400056: Hemi
+    400058: Lamp
+    400060: Sun
+    400062: //RootNode
+    2300000: BezierCurve
+    2300002: BezierCurve.001
+    2300004: BezierCurve.002
+    2300006: BezierCurve.003
+    2300008: BezierCurve.004
+    2300010: BezierCurve.005
+    2300012: BezierCurve.006
+    2300014: BezierCurve.007
+    2300016: BezierCurve.008
+    2300018: BezierCurve.009
+    2300020: BezierCurve.010
+    2300022: Circle
+    2300024: Circle.001
+    2300026: Circle.002
+    2300028: Circle.003
+    2300030: Circle.004
+    2300032: Circle.005
+    2300034: Circle.006
+    2300036: Circle.007
+    2300038: Circle.008
+    2300040: Circle.009
+    2300042: Circle.010
+    2300044: Circle.012
+    2300046: Circle.015
+    2300048: Cube
+    2300050: Cube.001
+    2300052: Cube.002
+    2300054: Cube.003
+    3300000: BezierCurve
+    3300002: BezierCurve.001
+    3300004: BezierCurve.002
+    3300006: BezierCurve.003
+    3300008: BezierCurve.004
+    3300010: BezierCurve.005
+    3300012: BezierCurve.006
+    3300014: BezierCurve.007
+    3300016: BezierCurve.008
+    3300018: BezierCurve.009
+    3300020: BezierCurve.010
+    3300022: Circle
+    3300024: Circle.001
+    3300026: Circle.002
+    3300028: Circle.003
+    3300030: Circle.004
+    3300032: Circle.005
+    3300034: Circle.006
+    3300036: Circle.007
+    3300038: Circle.008
+    3300040: Circle.009
+    3300042: Circle.010
+    3300044: Circle.012
+    3300046: Circle.015
+    3300048: Cube
+    3300050: Cube.001
+    3300052: Cube.002
+    3300054: Cube.003
+    4300000: Circle.007
+    4300002: Circle.008
+    4300004: Cube.003
+    4300006: Circle.015
+    4300008: Circle.012
+    4300010: Circle.010
+    4300012: Circle.009
+    4300014: Cube.002
+    4300016: Cube.001
+    4300018: BezierCurve.010
+    4300020: Circle.006
+    4300022: Circle.005
+    4300024: BezierCurve.009
+    4300026: Cube
+    4300028: BezierCurve.008
+    4300030: Circle.004
+    4300032: BezierCurve.006
+    4300034: BezierCurve.005
+    4300036: BezierCurve.007
+    4300038: Circle.003
+    4300040: BezierCurve.004
+    4300042: Circle.002
+    4300044: Circle.001
+    4300046: BezierCurve.003
+    4300048: BezierCurve.001
+    4300050: Circle
+    4300052: BezierCurve.002
+    4300054: BezierCurve
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
