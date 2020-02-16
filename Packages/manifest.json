@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.probuilder": "4.2.3",
     "com.unity.test-framework": "1.1.11",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.10",
